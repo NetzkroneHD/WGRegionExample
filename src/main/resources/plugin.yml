@@ -1,0 +1,7 @@
+name: WGRegionTest
+version: '${project.version}'
+main: de.netzkronehd.wgregionevents.example.WGRegionExample
+api-version: 1.19
+
+commands:
+  wge:
